@@ -1,7 +1,7 @@
 ### Hi there 👋
 Want to see something interesting?? 
 
-<img src="/public/octagram.png" alt="octagram">
+<img src="/public/octagram.png" alt="octagram" style="width:100px;">
 
 ```
 print("Hello World")
